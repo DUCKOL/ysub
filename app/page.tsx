@@ -226,7 +226,7 @@ export default function Home() {
           <div className="flex items-center justify-center gap-3 mb-4">
             <Rocket className="h-8 w-8 text-primary" />
             <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
-              SubMix
+              Ysub
             </h1>
           </div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
