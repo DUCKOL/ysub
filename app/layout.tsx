@@ -14,8 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SubMix - 订阅链接转换器",
-  description: "SubMix - 将 VLESS、Hysteria2、Shadowsocks、Trojan 等订阅链接转换为 Mihomo 内核 YAML 配置文件",
+  title: "Yub - 订阅链接转换器",
+  description: "Yub - 将 VLESS、Hysteria2、Shadowsocks、Trojan 等订阅链接转换为 Mihomo 内核 YAML 配置文件",
+  icon: '/YsLogo.png'
 };
 
 export default function RootLayout({
